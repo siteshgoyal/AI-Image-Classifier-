@@ -70,7 +70,7 @@ st.markdown("""
         text-align: center;
     }
     </style>
-    <div class="title">Image Classification App <br> By <br> Team Ganja Ka Bhanja</div>
+    <div class="title">Image Classification App </div>
     """, unsafe_allow_html=True)
 st.write("")
 
