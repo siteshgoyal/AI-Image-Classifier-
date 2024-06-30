@@ -18,8 +18,7 @@ One of the main reasons is the use of Inception modules which can perform convol
 <img width="600" alt="Screenshot 2024-06-04 113440" src="https://github.com/Arin13-03/AI-Image-Classifier/assets/133523672/ae68ebb6-c3de-4f1d-891e-2a2f590df05f">
 
 
-## Project Working Video
-https://github.com/siteshgoyal/AI-Image-Classifier-/blob/main/__pycache__/Screen%20Recording%202024-07-01%20070712.mp4
+
 
 
 ## How to get started 🚀
