@@ -29,7 +29,7 @@ First, we need to have all the requirements before hosting into our local system
 ### Steps to Follow:
 + Clone the Repository
 ```bash
-git clone https://github.com/Arin13-03/AI-Image-Classifier.git
+git clone https://github.com/siteshgoyal/AI-Image-Classifier.git
 ```
 + Open the terminal in the folder where all these files are saved
 + Use the command to run the app
