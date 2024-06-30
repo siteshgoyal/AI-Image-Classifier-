@@ -19,7 +19,7 @@ One of the main reasons is the use of Inception modules which can perform convol
 
 
 ## Project Working Video
-"https://github.com/siteshgoyal/AI-Image-Classifier-/blob/main/__pycache__/Screen%20Recording%202024-07-01%20070712.mp4"
+https://github.com/siteshgoyal/AI-Image-Classifier-/blob/main/__pycache__/Screen%20Recording%202024-07-01%20070712.mp4
 
 
 ## How to get started 🚀
