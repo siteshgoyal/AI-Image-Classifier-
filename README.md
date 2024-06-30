@@ -20,7 +20,7 @@ One of the main reasons is the use of Inception modules which can perform convol
 
 ## Project Working Video
 
-https://github.com/Arin13-03/AI-Image-Classifier/assets/118659151/e54165cf-387e-45f8-bac6-3e6bab10ce57
+
 
 ## How to get started 🚀
 First, we need to have all the requirements before hosting into our local system.
